@@ -1,1 +1,5 @@
 # sistemacadastro
+
+node app.js
+
+:)
